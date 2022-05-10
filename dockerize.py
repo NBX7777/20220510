@@ -1,1 +1,0 @@
-print('dockerize de file')
